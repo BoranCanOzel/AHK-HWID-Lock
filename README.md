@@ -27,4 +27,3 @@ This repository contains a simple software copy protection system implemented in
 ## 🔒 Crypto Functions
 
 The scripts use the TEA cipher and XCBC-MAC for encryption and authentication. These functions ensure secure processing of user data and PC fingerprints.
-``` &#8203;:citation[【oaicite:0】]&#8203;
