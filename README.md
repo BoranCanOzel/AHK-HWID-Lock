@@ -1,4 +1,4 @@
-# 🔐 AHK Login System
+# 🔐 AHK HWID Lock Login System
 
 This repository contains a simple software copy protection system implemented in AutoHotkey (AHK). It consists of two main scripts: `admin_ini_generator.ahk` and `user.ahk`.
 
