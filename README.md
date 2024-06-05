@@ -10,7 +10,7 @@ This repository contains a simple software copy protection system implemented in
 ## 🛠️ Requirements
 
 - AutoHotkey Version: 1.0.39+
-- Platform: Windows 2000/XP
+- Platform: Windows 2000/XP +
 
 ## 📜 Usage
 
